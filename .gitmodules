@@ -1,0 +1,6 @@
+[submodule "external/chk_common"]
+	path = external/chk_common
+	url = https://github.com/chikinrasshu/chk_common
+[submodule "external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw
